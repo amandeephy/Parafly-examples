@@ -5,7 +5,7 @@ An example CMS job parallelized using Parafly
 The CMS job is to convert MiniAOD files to simulate future detector conditions using the Delphes FW.
 These require the Delphes FW be installed, to do the same :
 
-```
+```bash
 cd DelphesNtuplizer
 cmsrel CMSSW_10_0_5
 cd CMSSW_10_0_5
